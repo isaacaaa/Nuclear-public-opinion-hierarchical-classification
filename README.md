@@ -1,6 +1,6 @@
 # Nuclear-public-opinion-hierarchical-classification
 This is the implementation of the paper "Position Analysis of Internet Public Opinions - 
-A Case Study of Nuclear Energy Policy in Taiwan"
+A Case Study of Nuclear Energy Policy in Taiwan".
 
 
 ## Colab
