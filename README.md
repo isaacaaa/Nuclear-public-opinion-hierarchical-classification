@@ -1,5 +1,6 @@
 # Nuclear-public-opinion-hierarchical-classification
-This is the implementation of the paper [A Teacher-Student Approach to Cross-Domain Transfer Learning with Multi-level Attention](https://dl.acm.org/doi/abs/10.1145/3486622.3494009) .
+This is the implementation of the paper "Position Analysis of Internet Public Opinions - 
+A Case Study of Nuclear Energy Policy in Taiwan"
 
 
 ## Colab
