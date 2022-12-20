@@ -5,7 +5,7 @@ A Case Study of Nuclear Energy Policy in Taiwan".
 
 ## Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isaacaaa/Nuclear-public-opinion-hierarchical-classification/blob/main/Public_opinion_classification.ipynb)
 
 
 ## Environment Setup
